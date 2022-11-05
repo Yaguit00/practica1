@@ -1,3 +1,3 @@
-# Ingenier-a-Inform-tica
+# Practica 1
 
-Practica 1 del primer semestre de ingeniería informática en UNIZAR, EINA.
+Practica 1 de programación, realizada en septiembre del 2022
